@@ -1,0 +1,15 @@
+This Programming language was created by guido van rossum in 1991.
+
+It is used for :
+
+1. Website Development (Server Side)
+2. Software development 
+3. Mathematics 
+4. System Scripting 
+
+It is also known as data science language .
+
+Python can be used on a server to create web applications.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
